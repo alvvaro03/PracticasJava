@@ -1,7 +1,7 @@
 package ejercicios;
 
 public class ejer1 {
-
+	//suma de todos los arrays
 	public static void main(String[] args) {
 		
 		int miArray[] = {1,2,3,7,8,34};

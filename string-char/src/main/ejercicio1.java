@@ -7,8 +7,6 @@ import javax.lang.model.element.NestingKind;
 
 public class ejercicio1 {
 
-
-
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
